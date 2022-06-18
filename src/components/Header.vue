@@ -73,7 +73,7 @@ i {
         background-position: 0 -120px;
     }
     .container{
-        width: 70%;
+        width: 50%;
     }
 }
 
