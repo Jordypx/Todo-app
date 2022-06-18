@@ -51,8 +51,7 @@ nav{
 
  @media screen and (min-width: 375px) {
    .container {
-    width: 70%;
-    gap: 14rem;
+    width: 100%;
    }
 } 
 
