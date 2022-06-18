@@ -52,7 +52,7 @@ nav{
  @media screen and (min-width: 375px) {
    .container {
     width: 100%;
-    gap: 17rem;
+    gap: 14rem;
    }
 } 
 
@@ -73,7 +73,7 @@ i {
         background-position: 0 -120px;
     }
     .container{
-        width: 50%;
+        width: 70%;
     }
 }
 
